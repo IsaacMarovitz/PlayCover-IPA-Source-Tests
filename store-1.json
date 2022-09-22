@@ -1,13 +1,12 @@
 [
     {
-        "id": "com.miHoYo.GenshinImpact",
+        "bundleID": "com.miHoYo.GenshinImpact",
         "name": "Genshin Impact",
         "version": "2.8.0",
-        "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/37/08/4d/37084d81-091e-a0d6-c34d-55f830214522/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/492x0w.webp",
+        "itunesLookup": "http://itunes.apple.com/lookup?bundleId=com.miHoYo.GenshinImpact",
         "link": "https://ipa.playcover.workers.dev/0:/Genshin%20Impact/US/Genshin%20Impact_2.8.0.ipa",
-        "region": "Global"
     },
-    {
+    /*{
             "id": "com.miHoYo.Yuanshen",
             "name": "原神",
             "version": "2.8.0",
@@ -86,5 +85,5 @@
             "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/29/b8/ed/29b8ed2f-5498-60d3-de3f-1e1ea08a7a7a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp", 
             "link": "https://ipa.playcover.workers.dev/0:/US/Legends%20of%20Runeterra_03.10.008.ipa",
             "region": "Global"
-    }
+    }*/
 ]
