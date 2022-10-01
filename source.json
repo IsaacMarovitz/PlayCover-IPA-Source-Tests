@@ -9,22 +9,22 @@
     {
             "bundleID": "com.blizzard.diablo.immortal",
             "name": "Diablo Immortal",
-            "version": "1.4.925101",
+            "version": "1.5.2",
             "itunesLookup": "http://itunes.apple.com/lookup?bundleId=com.blizzard.diablo.immortal",
-            "link": "https://ipa.playcover.workers.dev/0:/US/Diablo%20Immortal_1.4.925101.ipa"
+            "link": "https://ipa.playcover.workers.dev/1:/IPAs/Diablo%20Immortal/Diablo%20Immortal_1.5.2.ipa"
     },
     {
             "bundleID": "com.netflix.Netflix",
             "name": "Netflix",
-            "version": "14.40.0",
+            "version": "14.53.0",
             "itunesLookup": "http://itunes.apple.com/lookup?bundleId=com.netflix.Netflix",
-            "link": "https://ipa.playcover.workers.dev/0:/US/Netflix_14.40.0.ipa"
+            "link": "https://ipa.playcover.workers.dev/1:/IPAs/Netflix/Netflix_14.53.0.ipa"
     },
     {
             "bundleID": "com.google.ios.youtube",
             "name": "YouTube",
-            "version": "17.24.4",
+            "version": "17.38.9",
             "itunesLookup": "http://itunes.apple.com/lookup?bundleId=com.google.ios.youtube",
-            "link": "https://ipa.playcover.workers.dev/0:/US/YouTube_17.24.4.ipa"
+            "link": "https://ipa.playcover.workers.dev/1:/IPAs/YouTube/YouTube_17.38.9.ipa"
     }
 ]
